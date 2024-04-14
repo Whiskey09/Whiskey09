@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Whiskey09
-- 👀 I’m interested in urmom
-- 🌱 I’m currently learning web dev(started on 28/10/2023)
+- 👋 Hi, I’m Tanmay
+- 👀 I’m interested in web dev and cybersecurity 
+- 🌱 I’m currently learning web dev 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me D1 1309
  <!---
