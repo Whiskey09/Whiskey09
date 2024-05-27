@@ -11,7 +11,7 @@ I am focused on understanding the core principles of cybersecurity and the best 
 The potential of decentralized technologies and blockchain to revolutionize various industries has drawn me to Web3. 
 I'm at the beginning of my journey, learning about blockchain basics, smart contracts, and how decentralized applications (dApps) are built and function.
 - 🤝 Let's Connect
-I'm eager to connect with other tech enthusiasts and professionals. Feel free to reach out to me here on GitHub or through [https://twitter.com/tanmaysaysx].
+I'm eager to connect with other tech enthusiasts and professionals. Feel free to reach out to me here on GitHub or through [https://twitter.com/tanmayffs].
 
 Thank you for visiting my profile, and I hope to interact with many of you!
 
